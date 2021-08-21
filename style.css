@@ -1,0 +1,63 @@
+body{
+	font-weight: bold;
+	font-family: sans-serif;
+	color:rgba(255, 255, 255, 0.795);
+	font-size: 20px;
+	background-image: url(ashley-whitlatch-36aGnv29Ss0-unsplash.jpg);
+    background-size: cover;
+
+}
+h1{
+	text-decoration:underline;
+}
+button{
+	font-weight: bold;
+	font-size: 17px;
+	border-radius: 5px;
+}
+button:hover{
+	cursor: pointer;
+}
+#know-more{
+	background-color: blue;
+	color: white;
+	border: 2px solid blue;
+}
+#subscribe{
+	margin-left: 90px;
+	background-color: red;
+	color: white;
+	border: 2px solid red;
+}
+#table-trick{
+	margin-left: 90px;
+	background-color: rgb(53, 252, 53);
+	color: white;
+	border: 2px solid rgb(53, 252, 53);
+}
+#abacus{
+	background-color: rgb(248, 70, 70);
+	color: white;
+	border: 2px solid rgb(248, 70, 70);
+}
+#back{
+	border:2px solid rgb(57, 252, 115);
+	width: 120px;
+	margin-left:90px ;
+}
+#back:hover{
+	background-color:rgb(57, 252, 115) ;
+	transition: all 0.7s ease;
+	color: white;
+}
+
+img{
+	text-align: center;
+    margin-top: 50px;
+    height: 60px;
+    width:20px;
+}
+img:hover{
+    transition: all 0.8s ease;
+    width: 40px;
+}
